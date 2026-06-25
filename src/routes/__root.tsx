@@ -88,6 +88,13 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
       { name: "theme-color", content: "#0f3a2e" },
+      { property: "og:title", content: "Haram Journey | Premium Umrah Packages & Visa Services UK" },
+      { name: "twitter:title", content: "Haram Journey | Premium Umrah Packages & Visa Services UK" },
+      { name: "description", content: "Sacred Journeys generates leads for Umrah travel packages by offering dynamic pricing and custom itinerary building." },
+      { property: "og:description", content: "Sacred Journeys generates leads for Umrah travel packages by offering dynamic pricing and custom itinerary building." },
+      { name: "twitter:description", content: "Sacred Journeys generates leads for Umrah travel packages by offering dynamic pricing and custom itinerary building." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/ffba7460-b9de-4f5a-a708-d6c3f3b05e49/id-preview-8330df43--bc9ddd96-ef97-4c9f-9d5c-39eb95b01923.lovable.app-1782366942925.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/ffba7460-b9de-4f5a-a708-d6c3f3b05e49/id-preview-8330df43--bc9ddd96-ef97-4c9f-9d5c-39eb95b01923.lovable.app-1782366942925.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
