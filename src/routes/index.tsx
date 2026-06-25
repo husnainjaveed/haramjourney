@@ -322,7 +322,7 @@ function Packages({ onQuote }: { onQuote: (name: string) => void }) {
               Pilgrimage packages, <em>refined.</em>
             </h2>
             <p className="mt-6 text-ink-soft leading-relaxed">
-              Every season, every hotel category, every flight route — we sculpt the details so
+              Every season, every hotel category, every flight route we sculpt the details so
               your only focus is devotion. Prices vary with the Hijri calendar, room category and
               availability.
             </p>
@@ -453,7 +453,7 @@ function WhyUs() {
             <span className="h-px w-8 bg-gold/60" /> Why Haram Journey
           </div>
           <h2 className="font-display text-5xl md:text-6xl leading-[1.05]">
-            A pilgrimage you will never forget — for <em>all the right reasons.</em>
+            A pilgrimage you will never forget for <em>all the right reasons.</em>
           </h2>
           <p className="mt-6 text-sand/70 max-w-xl leading-relaxed">
             Every step in your Umrah experience is handled by trained specialists. From the moment
@@ -524,7 +524,7 @@ function Builder({ onSubmit }: { onSubmit: () => void }) {
             preferred accommodation — our specialists will return with a personalized itinerary.
           </p>
           <div className="mt-8 space-y-3 text-sm text-emerald-deep">
-            <Bullet>No fixed pricing — every quote is tailored.</Bullet>
+            <Bullet>No fixed pricing, every quote is tailored.</Bullet>
             <Bullet>Reply within 24 hours, in shaa Allah.</Bullet>
             <Bullet>Adjustable up to 14 days before departure.</Bullet>
           </div>
